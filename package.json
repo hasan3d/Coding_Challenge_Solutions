@@ -5,7 +5,7 @@
   "main": "pull_data.js",
   "repository": {
     "type": "git",
-    "url": "?.git"
+    "url": "https://github.com/hasan3d/Coding_Challenge_Solutions.git"
   },
   "dependencies": {
     "express": ">= 4.14.0",
