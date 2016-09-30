@@ -1,0 +1,16 @@
+{
+  "name": "coding_challenge",
+  "version": "0.0.1",
+  "description": "My soultions to the coding challenge.",
+  "main": "pull_data.js",
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "dependencies": {
+    "express": ">= 4.14.0",
+    "geckoboard": ">= 1.0.0"
+  },
+  "author": "Hasan Ahmed",
+  "license": "ISC"
+}
